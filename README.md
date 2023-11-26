@@ -45,7 +45,28 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 ## Procedure:
+1. Create a New Project :
+   
+Open Quartus and create a new project by selecting "File" > "New Project Wizard." Follow the wizard's instructions to set up your project, including specifying the project name, location, and target device (FPGA).
 
+2. Create a New Design File :
+   
+Once the project is created, right-click on the project name in the Project Navigator and select "Add New File." Choose "Verilog HDL File" or "VHDL File," depending on your chosen hardware description language.
+
+3. Write the Combinational Logic Code :
+   
+Open the newly created Verilog or VHDL file and write the code for your combinational logic.
+
+4. Compile the Project :
+   
+To compile the project, click on "Processing" > "Start Compilation" in the menu. Quartus will analyze your code, synthesize it into a netlist, and perform optimizations based on your target FPGA device.
+
+5. Analyze and Fix Errors :
+If there are any errors or warnings during the compilation process, Quartus will display them in the Messages window. Review and fix any issues in your code if necessary. View the RTL diagram.
+
+6. Verification :
+    
+Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF". Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All. Give the Input Combinations according to the Truth Table amd then simulate the Output waveform
 
 ## PROGRAM: 
 
@@ -78,15 +99,12 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ![DOWN_TIMING](https://github.com/MOHAMEDAHSAN/Exp-7-Synchornous-counters-/assets/139331378/5a0c8809-debf-4625-b558-282323e1d1eb)
 
 
-### TRUTH TABLE 
+### TRUTH TABLE :
 #### UP COUNTER
+![UP_TIMING](https://github.com/MOHAMEDAHSAN/Exp-7-Synchornous-counters-/assets/139331378/3d00ca8d-bfbe-4825-a718-7014d008d985)
 
 #### DOWN COUNTER
-
-
-
-
-
+![DOWN_TT](https://github.com/MOHAMEDAHSAN/Exp-7-Synchornous-counters-/assets/139331378/f5ffcf72-6a45-47e7-841e-ee10db16d782)
 
 ### RESULT:
 Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
