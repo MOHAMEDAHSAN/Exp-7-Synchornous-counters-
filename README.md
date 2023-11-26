@@ -31,7 +31,6 @@ The Q outputs of each flip-flop will serve as the respective binary bits of the 
  
  
 
-Four-bit “Up” Counter
 ![image](https://user-images.githubusercontent.com/36288975/169644758-b2f4339d-9532-40c5-af40-8f4f8c942e2c.png)
 
 
@@ -44,16 +43,18 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ![image](https://user-images.githubusercontent.com/36288975/169644844-1a14e123-7228-4ed8-81a9-eb937dff4ac8.png)
 
 
-4-bit Count Down Counter
+
 ## Procedure:
 
 
 ## PROGRAM: 
 
 #### UP COUNTER
+
 ![UP_CODE](https://github.com/MOHAMEDAHSAN/Exp-7-Synchornous-counters-/assets/139331378/7e65bac7-bf05-4a14-aa23-7a268a18acdf)
 
 #### DOWN COUNTER
+
 ![DOWN_CODE](https://github.com/MOHAMEDAHSAN/Exp-7-Synchornous-counters-/assets/139331378/163382bd-7860-4485-a497-36930ecb83bb)
 
 
@@ -61,11 +62,8 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 ## OUTPUT :
 ### RTL REALISATION
-![UP_RTL](https://github.com/MOHAMEDAHSAN/Exp-7-Synchornous-counters-/assets/139331378/d0a63867-bca9-45d0-9427-5ac37e6476b6)
-
-
 #### UP COUNTER
-
+![UP_RTL](https://github.com/MOHAMEDAHSAN/Exp-7-Synchornous-counters-/assets/139331378/d0a63867-bca9-45d0-9427-5ac37e6476b6)
 
 #### DOWN COUNTER
 ![DOWN_RTL](https://github.com/MOHAMEDAHSAN/Exp-7-Synchornous-counters-/assets/139331378/3586abac-401d-4163-aaed-b0084f313071)
