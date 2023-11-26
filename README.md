@@ -1,7 +1,7 @@
 # Exp-6-Synchornous-counters - up counter and down counter 
 ## AIM: To implement 4 bit up and down counters and validate  functionality.
 ## EQUIPMENT REQUIRED :
-### HARDWARE REQUIRED – PC, Cyclone II , USB flasher
+### HARDWARE REQUIRED - PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED - Quartus prime
 ## THEORY :
 ### UP COUNTER 
@@ -101,7 +101,8 @@ Click on "File" > "New" > "Verification/Debugging Files" > "University Program V
 
 ### TRUTH TABLE :
 #### UP COUNTER
-![UP_TIMING](https://github.com/MOHAMEDAHSAN/Exp-7-Synchornous-counters-/assets/139331378/3d00ca8d-bfbe-4825-a718-7014d008d985)
+![UP_TT](https://github.com/MOHAMEDAHSAN/Exp-7-Synchornous-counters-/assets/139331378/d2659906-c184-400d-a57c-a25d1324ea95)
+
 
 #### DOWN COUNTER
 ![DOWN_TT](https://github.com/MOHAMEDAHSAN/Exp-7-Synchornous-counters-/assets/139331378/f5ffcf72-6a45-47e7-841e-ee10db16d782)
